@@ -2,6 +2,9 @@
 
 This web panel provides a live view of your characters table from your VORP (RedM) server database. It allows you to monitor and manage character information in real-time.
 
+# V2.1 UPDATE
+https://streamable.com/mdjf66
+
 ## Introduction
 
 The VORP Web Panel is designed to offer a user-friendly interface for administrators to access character data directly from the database. With this panel, you can:
