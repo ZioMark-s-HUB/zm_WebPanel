@@ -29,7 +29,8 @@ To deploy the VORP Web Panel, follow these steps:
 
 1. Clone this repository to your web server.
 2. Configure environment variables: Set up your database connection details in the `.env` file.
-3. Launch the web panel: Access the web panel through your web server to start managing character data.
+3. Move the .env file to another directory, a directory that isn't accessible thru APACHE (so not in the htdocs)
+4. Launch the web panel: Access the web panel through your web server to start managing character data.
 
 ## Dependencies
 
