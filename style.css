@@ -1,0 +1,22 @@
+.description {
+    max-height: 200px; 
+    overflow-y: auto; 
+    }
+    .header-section {
+    position: relative;
+    overflow: hidden;
+    height: 200px; 
+    animation: slideBackground 30s infinite alternate; 
+    }
+    @keyframes slideBackground {
+    0% {
+    background-position: 0 0;
+    }
+    100% {
+    background-position: 0 20%;
+    }
+    }
+
+          .navitem:hover {
+    text-decoration: underline;
+ }
