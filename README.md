@@ -2,8 +2,16 @@
 
 This web panel provides a live view of your characters table from your VORP (RedM) server database. It allows you to monitor and manage character information in real-time.
 
-# V2.1 UPDATE
+# V2.1 UPDATE (24/04/2024)
+### Preview
 https://streamable.com/mdjf66
+
+### Changelog
+- Added SteamAuth system (will be used in the future for some exciting features!)
+- The directory has been refactored by placing the pages in the "pages" folder and the backend PHP files in the "backend" folder.
+- Added a Navbar (menu)
+- Added login page for steamauth login
+- More
 
 ## Introduction
 
