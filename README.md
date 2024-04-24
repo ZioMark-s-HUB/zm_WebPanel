@@ -11,6 +11,7 @@ https://streamable.com/mdjf66
 - The directory has been refactored by placing the pages in the "pages" folder and the backend PHP files in the "backend" folder.
 - Added a Navbar (menu)
 - Added login page for steamauth login
+- Table restyle (tailwind classes)
 - More
 
 ## Introduction
@@ -22,9 +23,13 @@ The VORP Web Panel is designed to offer a user-friendly interface for administra
 - Quickly access character information for player support or administrative tasks.
 
 ## Preview
-![Panel Preview](https://i.imgur.com/4J15QmT.png)
+![Login Page](https://i.imgur.com/ezqCaBv.jpeg)
 
-![Details Preview](https://i.imgur.com/obmH9D4.png)
+![Homepage](https://i.imgur.com/AgVpBbO.png)
+
+![Characters](https://i.imgur.com/3DXrqj0.png)
+
+![Items](https://i.imgur.com/JwMkGal.png)
 
 
 ## Features
