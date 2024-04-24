@@ -33,7 +33,10 @@ To deploy the VORP Web Panel, follow these steps:
 1. Clone this repository to your web server.
 2. Configure environment variables: Set up your database connection details in the `.env` file.
 3. Move the .env file to another directory, a directory that isn't accessible thru APACHE (so not in the htdocs)
-4. Launch the web panel: Access the web panel through your web server to start managing character data.
+4. Install **Composer** on your machine [Composer](https://getcomposer.org/download/)
+5. Go to the webpanel directory and open a CMD > write : `composer update` to make sure every dependecy and package is installed
+6. Go to **steamauth** > SteamConfig.php > and fill the line **2 3 4 5** with your correct details.
+7. Launch the web panel: Access the web panel through your web server to start managing character data.
 
 ## Dependencies
 
