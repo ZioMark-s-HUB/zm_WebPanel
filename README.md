@@ -1,6 +1,6 @@
 # ZioMark's VORP Web Panel 🚀
 
-This web panel provides a live view of your characters table from your VORP (GTAV) server database. It allows you to monitor and manage character information in real-time.
+This web panel provides a live view of your characters table from your VORP (RedM) server database. It allows you to monitor and manage character information in real-time.
 
 ## Introduction
 
